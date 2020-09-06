@@ -45,6 +45,7 @@
     <Compile Include="CountDuplicateService.cs" />
     <Compile Include="StringAverageService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SumStringsService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
