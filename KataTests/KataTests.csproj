@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BandNameGeneratorTests.cs" />
+    <Compile Include="CountDuplicateTests.cs" />
     <Compile Include="StringAverageServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
